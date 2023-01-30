@@ -37,7 +37,7 @@ Tests are implemented using the unittest module. To run the tests:
 
 
 
-Copy code
+
 python -m unittest discover -v
   
   
