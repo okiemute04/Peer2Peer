@@ -9,11 +9,8 @@ Python 3.x
 
 
 
- Usage
-Clone the repository
-bash
-Copy code
-git clone https://github.com/<username>/p2p_app.git
+
+
 
 
 
@@ -22,14 +19,12 @@ git clone https://github.com/<username>/p2p_app.git
 
  Navigate to the repository
 bash
-Copy code
-cd p2p_app
+cd p2p
 
 
 
 Run the script
-Copy code
-python p2p_app.py
+python p2p.py
 
 
 
